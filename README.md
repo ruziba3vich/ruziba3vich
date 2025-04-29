@@ -26,7 +26,7 @@ type Developer struct {
 func main() {
 	me := &Developer{
 		Name:     "Dostonbek Soliyev",
-		Title:    "Golang Developer",
+		Title:    "Backend Developer",
 		Location: "Uzbekistan",
 		Stack: []string{
 			"C++", "Go", "Java", "SQL", "NoSQL",
